@@ -7,6 +7,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : Adrián
 */
 
+li{
+	font-size:large;
+}
 body{
     font-family: monospace;
     color: magenta;
